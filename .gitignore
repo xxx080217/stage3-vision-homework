@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Generated build directories (ignore only; do not clean)
+build/
+install/
+log/
+# All extracted frames stay local; submit selected result figures instead
+outputs/frames/
